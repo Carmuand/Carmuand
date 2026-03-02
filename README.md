@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm Carlos Muñoz
+- I'm a Software Developer in training at Riwi
 <!--
 **Carmuand/Carmuand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
