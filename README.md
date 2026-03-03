@@ -1,6 +1,13 @@
 ## Hi there 👋
-- I'm Carlos Muñoz
-- I'm a Software Developer in training at Riwi
+# 👋 Hola, soy Carlos Andrés
+
+🎓 Estudiante de Desarrollo de Software en Riwi.  
+💻 En proceso de formación como desarrollador backend.  
+🐍 Aprendiendo Python y fortaleciendo mi lógica de programación.  
+🎾 Juego tenis en mi tiempo libre.  
+🎬 Disfruto el cine y las historias bien contadas.  
+
+Estoy enfocado en mejorar cada día, desarrollar proyectos sólidos y crecer profesionalmente en el mundo tech.
 <!--
 **Carmuand/Carmuand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
