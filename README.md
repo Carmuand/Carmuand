@@ -1,13 +1,12 @@
 ## Hi there 👋
-# 👋 Hola, soy Carlos Andrés
+# Hi 👋 I'm Carlos Andrés
 
-🎓 Estudiante de Desarrollo de Software en Riwi.  
-💻 En proceso de formación como desarrollador backend.  
-🐍 Aprendiendo Python y fortaleciendo mi lógica de programación.  
-🎾 Juego tenis en mi tiempo libre.  
-🎬 Disfruto el cine y las historias bien contadas.  
+🎓 I study Software Development at Riwi.  
+🐍 I am learning to program in Python.  
+🎾 I like playing tennis.  
+🎬 I like movies.
 
-Estoy enfocado en mejorar cada día, desarrollar proyectos sólidos y crecer profesionalmente en el mundo tech.
+Here I share my projects and my learning process as a developer.
 <!--
 **Carmuand/Carmuand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
