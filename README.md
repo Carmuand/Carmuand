@@ -1,212 +1,134 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Carlos%20Muñoz&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20Training%20%7C%20Python%20%7C%20SQL%20%7C%20AWS%20%7C%20Spark&descAlignY=60&descSize=16" alt="header"/>
-</div>
+# Carlos Muñoz
+### Data Engineer in Training | Python | SQL | AWS | Spark
+**Barranquilla, Colombia**
 
-<div align="center">
-  <a href="https://github.com/Carmuand">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Carlos+Mu%C3%B1oz;Data+Engineer+%7C+Data+Analyst+in+training;Python+%E2%80%A2+Pandas+%E2%80%A2+SQL+%E2%80%A2+AWS;EDA+%E2%80%A2+ETL+%E2%80%A2+Spark+%E2%80%A2+Airflow" alt="typing" />
-  </a>
-</div>
-
-<div align="center">
-
-![Barranquilla, Colombia](https://img.shields.io/badge/Barranquilla-Colombia-FEDF00?style=for-the-badge&logoColor=black&labelColor=002B5B)
-![Focus](https://img.shields.io/badge/Focus-Data_Engineering-0EA5E9?style=for-the-badge)
-![Riwi](https://img.shields.io/badge/Riwi-Software_Development-2AA889?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Carmuand&label=Profile%20views&color=0ea5e9&style=for-the-badge)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Muñoz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosmuñoza95)
-[![Gmail](https://img.shields.io/badge/Gmail-arrietandres91@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arrietandres91@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Carmuand-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carmuand)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/carlosmuñoza95) · [GitHub](https://github.com/Carmuand) · [Email](mailto:arrietandres91@gmail.com)
 
 ---
 
-### 👨‍💻 About Me | Sobre mí
+## Profile
 
-**EN:** I'm **Carlos Muñoz**, Software Development student at **Riwi** from **Barranquilla, Colombia**, specialized in **Data Analytics → Data Engineering**. My main language is **Python**. I love turning raw data into clean pipelines, insights and products.
+Software Development student at **Riwi**, specialized in **Data Analytics and Data Engineering**. Main language: **Python**.
 
-**ES:** Soy **Carlos Muñoz**, estudiante de Desarrollo de Software en **Riwi**, enfocado en **Analítica → Ingeniería de Datos**. Mi lenguaje principal es **Python**. Me apasiona convertir datos crudos en pipelines limpios, insights y productos de datos.
+I focus on building clean, reproducible data workflows: from ingestion and transformation to storage, APIs and visualization. Currently training in Data Engineering with **FastAPI and AWS**.
 
-- 🎓 Training at **Riwi** — Basic Route + Advanced Route (Data) + Data Engineering with AWS
-- 🐍 Daily stack: **Python, Pandas, SQL, FastAPI, Docker, Spark, Airflow, Power BI, AWS**
-- 📊 Strong in: **EDA, ETL, Data Architecture, Dashboards**
-- ☁️ Currently learning: **FastAPI + AWS (EC2, ECS, ECR, VPC, S3, IAM, RDS)**
-- 🎾 Tennis lover | 🎬 Movie fan
-- 📫 Reach me: **arrietandres91@gmail.com**
+## Perfil Profesional
+
+Estudiante de Desarrollo de Software en **Riwi**, enfocado en **Analítica e Ingeniería de Datos**. Lenguaje principal: **Python**.
+
+Me especializo en la construcción de flujos de datos limpios y reproducibles: ingesta, transformación, almacenamiento, APIs y visualización. Actualmente en formación de Ingeniería de Datos con **FastAPI y AWS**.
+
+- Training: Riwi Basic Route + Advanced Route (Data) + Data Engineering with AWS
+- Core stack: Python, Pandas, SQL, FastAPI, Docker, Spark, Airflow, Power BI, AWS
+- Strengths: EDA, ETL, Data Architecture, Dashboards
+- Currently: FastAPI + AWS (EC2, ECS, ECR, VPC, S3, IAM, RDS)
+- Contact: arrietandres91@gmail.com
+- Location: Barranquilla, Colombia. Open to internships, junior data roles and collaborations.
 
 ---
 
-### 🛠️ Tech Stack | Stack Técnico
+## Tech Stack
 
-> Iconos con [Skill Icons](https://skillicons.dev) + Shields para herramientas de datos sin icono oficial.
+### Languages and Web Fundamentals
 
-**Languages & Web Basics:**
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,bash&theme=dark" alt="languages" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,bash&theme=light" alt="Languages: Python, JavaScript, HTML, CSS, Bash" />
   </a>
-</div>
+</p>
 
-**Databases & SQL:**
-<div align="center">
+### Databases
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="databases" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" alt="Databases: MySQL, PostgreSQL, SQLite" />
   </a>
-</div>
+</p>
 
-**Data Engineering, Cloud & Tools:**
-<div align="center">
+### Data Engineering, Cloud and Tools
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,fastapi,git,github,githubactions,linux,vscode,postman&theme=dark" alt="devops" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,fastapi,git,github,githubactions,linux,vscode,postman&theme=light" alt="Tools: Docker, AWS, FastAPI, Git, GitHub, Actions, Linux, VSCode, Postman" />
   </a>
-</div>
+</p>
 
-**Data Analytics & Pipelines (badges):**
-<div align="center">
+**Data and Cloud complementary stack (no Skill Icons available, listed as text):**
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Exploratory_Analysis-2AA889?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-0EA5E9?style=for-the-badge)
-![Data Architecture](https://img.shields.io/badge/Data_Architecture-Modeling-8B5CF6?style=for-the-badge)
-
-</div>
-
-**AWS Cloud (lo que uso actualmente):**
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-Compute-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-Containers-FF9900?style=for-the-badge)
-![ECR](https://img.shields.io/badge/ECR-Images-FF9900?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-Networking-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-Security-DD344C?style=for-the-badge)
-![RDS](https://img.shields.io/badge/RDS-Database-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-
-</div>
+- Data: Pandas, NumPy, scikit-learn, Power BI, Apache Spark, Apache Airflow
+- Practices: EDA, ETL, Data Architecture (raw / staging / curated)
+- AWS: EC2, ECS, ECR, S3, VPC, IAM, RDS
 
 ---
 
-### 🎓 Mi formación en Riwi | My Training at Riwi
+## Education at Riwi | Formación en Riwi
 
-#### 1️⃣ Ruta Básica — Fundamentos de Software
-- [x] **Python:** lógica, POO, manejo de archivos, errores, módulos
-- [x] **HTML + CSS:** maquetación semántica, responsive, Flexbox/Grid
-- [x] **JavaScript:** DOM, eventos, fetch/API, lógica frontend
-- [x] **Bases de Datos:** modelado, SQL, consultas, joins, integridad
-- [x] **Proyecto Integrador — CoDecidE:** integramos todos los conocimientos de la ruta básica en un proyecto colaborativo completo (frontend + backend + DB).
+### 1. Basic Route — Software Fundamentals
 
-#### 2️⃣ Ruta Avanzada — Elegí Analítica de Datos
-Lenguaje principal: **Python**
+- **Python:** logic, OOP, file handling, error handling, modules.
+- **HTML + CSS:** semantic layout, responsive design, Flexbox and Grid.
+- **JavaScript:** DOM, events, Fetch API, frontend logic.
+- **Databases:** data modeling, SQL, joins, constraints and integrity.
+- **Integrative Project — CoDecidE:** full team project integrating Python, HTML/CSS, JavaScript and Databases. Complete solution covering frontend, backend and database.
 
-- [x] **Pandas:** limpieza, transformación, groupby, merges
-- [x] **EDA (Análisis Exploratorio):** estadística descriptiva, visualización, detección de outliers y valores nulos
-- [x] **ETL:** extracción, transformación y carga de datos
-- [x] **Power BI:** modelado, DAX básico, dashboards interactivos
-- [x] **Arquitectura de Datos:** capas raw/staging/curated, buenas prácticas
-- [x] **Apache Spark:** procesamiento distribuido, DataFrames
-- [x] **Apache Airflow:** orquestación y DAGs
-- [x] **Docker:** contenedores para entornos de datos reproducibles
+### 2. Advanced Route — Data Analytics
 
-#### 3️⃣ Ingeniería de Datos — En curso 🚧
-Actualmente estoy en:
+Main language: **Python**.
 
-- [x] **FastAPI:** APIs para exponer datos y modelos
-- [x] **Consola AWS & IAM:** usuarios, roles, políticas y seguridad
-- [x] **VPC:** redes, subredes, security groups
-- [x] **EC2:** despliegue de apps y servicios
-- [x] **ECR + ECS:** imágenes Docker y contenedores en la nube
-- [x] **S3:** data lake / almacenamiento de archivos y datasets
-- [ ] **RDS:** bases de datos relacionales gestionadas *(en práctica)*
-- [ ] Proyecto final de ingeniería: API + Docker + AWS + pipeline ETL
+- **Pandas:** cleaning, transformation, groupby, merges.
+- **EDA:** descriptive statistics, visualization, null and outlier treatment.
+- **ETL:** extraction, transformation and loading processes.
+- **Power BI:** data modeling, basic DAX, interactive dashboards.
+- **Data Architecture:** layered design and best practices.
+- **Apache Spark:** distributed processing with DataFrames.
+- **Apache Airflow:** orchestration and DAGs.
+- **Docker:** reproducible data environments with containers.
 
-> 🎯 **Objetivo:** ser **Data Engineer** capaz de construir pipelines end-to-end: ingesta → procesamiento (Spark/Pandas) → orquestación (Airflow) → almacenamiento (S3/RDS) → API (FastAPI) → visualización (Power BI).
+### 3. Data Engineering — In progress
+
+- **FastAPI:** APIs to expose data and models.
+- **AWS Console and IAM:** users, roles, policies and security.
+- **VPC:** networks, subnets and security groups.
+- **EC2:** application and service deployment.
+- **ECR + ECS:** Docker images and cloud containers.
+- **S3:** storage for files and datasets (data lake).
+- **RDS:** managed relational databases (in practice).
+- **Final goal:** end-to-end pipeline: ingestion, processing (Spark / Pandas), orchestration (Airflow), storage (S3 / RDS), API (FastAPI), visualization (Power BI).
+
+**Objective:** Data Engineer able to build end-to-end pipelines from ingestion to visualization.
 
 ---
 
-### 🚀 Proyecto Destacado | Featured Project
+## Featured Projects
 
-| Proyecto | Descripción | Stack | Estado |
+| Project | Description | Stack | Status |
 |---|---|---|---|
-| **CoDecidE** | Proyecto integrador de la ruta básica en Riwi. Integramos Python + HTML/CSS + JS + Base de Datos en una solución completa en equipo. | Python, HTML, CSS, JS, SQL | ✅ Completado |
-| **Data Pipelines & EDA** | Limpieza, EDA y ETL con Pandas + visualización en Power BI. Orquestación y contenedores. | Pandas, Power BI, Docker, Airflow, Spark | 🚧 En portafolio |
+| CoDecidE | Integrative project of the Riwi Basic Route. Team solution integrating full software fundamentals. | Python, HTML, CSS, JavaScript, SQL | Completed |
+| Data Pipelines and EDA | Data cleaning, exploratory analysis, ETL processes and Power BI dashboards with orchestration. | Python, Pandas, Power BI, Docker, Airflow, Spark | In progress |
 
-> 💡 Cambia esta tabla con los links a tus repos cuando los publiques:
-> - `https://github.com/Carmuand/CoDecidE`
-> - `https://github.com/Carmuand/tu-proyecto-datos`
+Update with repository links when published:
 
----
-
-### 📊 GitHub Stats | Estadísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carmuand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Carmuand&theme=tokyonight&hide_border=true" alt="streak"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmuand&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top-langs"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Carmuand&theme=tokyonight&no-frame=true&margin-w=4" alt="trophy"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carmuand&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph" />
-</div>
-
-### 🐍 Snake Animation + 👀 Visitor Counter
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carmuand/Carmuand/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carmuand/Carmuand/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Carmuand/Carmuand/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <br/>
-
-  ![Visitors](https://komarev.com/ghpvc/?username=Carmuand&label=Visitors&color=0ea5e9&style=flat)
-  ![Followers](https://img.shields.io/github/followers/Carmuand?style=flat&color=0ea5e9&label=Followers)
-</div>
-
-> ⚙️ Generado automáticamente por `.github/workflows/snake.yml` (cada 12h + en cada push a `main`). Si aún no ves la snake, ve a **Actions → Generate Snake Animation → Run workflow** una vez y espera 1-2 min.
+- https://github.com/Carmuand/CoDecidE
+- https://github.com/Carmuand/data-project
 
 ---
 
-### 🤝 Connect with me | Conecta conmigo
+## GitHub Statistics
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosmuñoza95)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arrietandres91@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carmuand)
-
-📍 Barranquilla, Colombia — Open to internships, junior data roles & collaborations.
-
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carmuand&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmuand&layout=compact&langs_count=6&hide_border=true&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
-### ⚡ Fun facts
+## Contact
 
-- 🎾 Juego tenis para despejar la mente entre pipelines.
-- 🎬 Amante del cine — siempre listo para una buena recomendación.
-- 🐍 Empecé con Python en Riwi y ahora no lo suelto: Pandas → APIs → AWS.
+- LinkedIn: https://www.linkedin.com/in/carlosmuñoza95
+- Email: arrietandres91@gmail.com
+- GitHub: https://github.com/Carmuand
+- Location: Barranquilla, Colombia
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" alt="footer"/>
-</div>
+## Interests
 
-<!--
-NOTAS PARA TI, CARLOS:
-1. Snake ya configurado en .github/workflows/snake.yml -> rama output. No borrar la carpeta dist/output.
-2. Cuando termines tu portafolio, agrega el badge aquí.
-3. Actualiza los links de CoDecidE con la URL real del repo.
--->
+Tennis and cinema. Focused on continuous learning in data engineering and analytics.
